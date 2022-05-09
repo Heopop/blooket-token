@@ -1,0 +1,2 @@
+# blooket-token
+Read
